@@ -1,0 +1,14 @@
+{
+  "name": "backbone-boilerplate",
+  "version": "0.0.0",
+  "description": "Backbone boilerplate",
+  "author": "Matías M. Méndez <matimendez88@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "underscore": "~1.8.3",
+    "jquery": "~2.1.4",
+    "backbone": "~1.2.1",
+    "handlebars": "~3.0.3",
+    "jquery-mockjax": "~2.0.1"
+  }
+}
